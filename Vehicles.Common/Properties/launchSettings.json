@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Vehicles.Common": {
+      "commandName": "Project"
+    },
+    "Vehicles.API": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Projects\\Vehicles\\Vehicles.API\\bin\\Debug\\net5.0\\Vehicles.API.exe"
+    }
+  }
+}
